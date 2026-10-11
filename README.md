@@ -8,7 +8,7 @@
 
 <br>
 
-🌐 **[GitHub Portfolio · awabwdbashry-sketch](https://awabdev.byethost12.com)**
+🌐 **[GitHub Portfolio · awabdev.byethost12.com](https://awabdev.byethost12.com)**
 <!-- ضع هنا رابط موقع الـ Portfolio الشخصي إن وُجد -->
 
 <br>
