@@ -1,0 +1,24 @@
+﻿# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Diagnostic script
+diagnose.php
+
+# User uploads and private files
+uploads/*
+!uploads/.gitkeep
+
+# Logs and temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local database configuration
+config/db.php
